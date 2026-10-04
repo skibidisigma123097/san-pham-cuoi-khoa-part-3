@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^4.22.3",
+    "firebase-admin": "^14.5.0",
+    "node-cron": "^3.0.3",
+    "node-fetch": "^3.3.2"
+  }
+}
